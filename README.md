@@ -26,7 +26,7 @@
 - 🔭 I'm currently working on **Full-stack Web Applications & Microservices**
 - 🌱 I'm currently learning **AWS & Cloud Architecture**
 - 💬 Ask me about **Java, Spring Boot, Node.js, React, Next.js, and MongoDB**
-- ⚡ Fun fact: **I'm not lazy. I'm just in energy-saving mode ☕🚀**
+- ⚡ Fun fact: **Turning coffee into clean code and real-time apps! ☕🚀**
 - 📫 Reach me at: **trung.minh.pham.cv@gmail.com**
 
 <br/><br/>
@@ -64,12 +64,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MinhTrungPham&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTrungPham&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=MinhTrungPham&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" alt="stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MinhTrungPham&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhTrungPham&theme=radical&hide_border=true&background=0d1117" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=MinhTrungPham&theme=radical&hide_border=true&background=0d1117" alt="streak" />
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhTrungPham&theme=react-dark&hide_border=true&area=true&color=ff69b4&line=8a2be2&point=ffffff" alt="activity graph" width="100%" />
+<img src="https://github.pumbas.net/api/contributions/MinhTrungPham?colour=8a2be2&bgColour=0d1117&dotColour=ff69b4" alt="activity graph" width="100%" />
 
 </div>
 
@@ -105,13 +105,13 @@
 <div align="center">
 
 <a href="https://github.com/MinhTrungPham/Smart-Customer-Support-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhTrungPham&repo=Smart-Customer-Support-System&theme=radical&hide_border=true&bg_color=0d1117" alt="Smart Customer Support System" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=MinhTrungPham&repo=Smart-Customer-Support-System&theme=radical&hide_border=true&bg_color=0d1117" alt="Smart Customer Support System" />
 </a>
 <a href="https://github.com/MinhTrungPham/Project_TLCN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhTrungPham&repo=Project_TLCN&theme=radical&hide_border=true&bg_color=0d1117" alt="Project Management System" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=MinhTrungPham&repo=Project_TLCN&theme=radical&hide_border=true&bg_color=0d1117" alt="Project Management System" />
 </a>
 <a href="https://github.com/MinhTrungPham/BTNhom_CCNPHM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhTrungPham&repo=BTNhom_CCNPHM&theme=radical&hide_border=true&bg_color=0d1117" alt="Dac San Soc Trang Ecommerce" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=MinhTrungPham&repo=BTNhom_CCNPHM&theme=radical&hide_border=true&bg_color=0d1117" alt="Dac San Soc Trang Ecommerce" />
 </a>
 
 </div>
